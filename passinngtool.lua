@@ -3,7 +3,7 @@ local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
 
 -- CONFIGURATION
-local MAIN_ACCOUNT_NAME = "YOUR_MAIN_ACCOUNT_USERNAME" -- Put your main account's exact username here
+local MAIN_ACCOUNT_NAME = "chillguyyy000" -- Put your main account's exact username here
 local SAFE_DISTANCE = Vector3.new(0, 12, -5) -- Keeps the alt 12 studs above and 5 studs behind the main account
 
 -- Function to safely grab the bomb item if it is dropped/stuck in the map
